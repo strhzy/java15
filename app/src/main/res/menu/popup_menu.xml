@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/visit_count"
+        android:title="" />
+    <item
+        android:id="@+id/increment_visit_count"
+        android:title="Увеличить счетчик посещений" />
+    <item
+        android:id="@+id/reset_visit_count"
+        android:title="Сбросить счетчик посещений" />
+</menu>

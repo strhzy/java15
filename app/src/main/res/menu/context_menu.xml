@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/change_to_red"
+        android:title="Красный текст" />
+    <item
+        android:id="@+id/change_to_blue"
+        android:title="Синий текст" />
+    <item
+        android:id="@+id/reset_text"
+        android:title="Сбросить текст" />
+</menu>
